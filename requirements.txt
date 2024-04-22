@@ -2,6 +2,6 @@ streamlit
 numpy
 pandas
 plotly
-sklearn
+scikit-learn
 statsmodels
 plotly_express
