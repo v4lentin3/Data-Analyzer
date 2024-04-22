@@ -4,3 +4,4 @@ pandas
 plotly
 sklearn
 statsmodels
+plotly_express
